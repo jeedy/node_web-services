@@ -1,0 +1,26 @@
+{
+  "name": "node_web-services",
+  "version": "1.0.0",
+  "description": "Chapter 6. 확장 가능한 웹 서비스(express) - Node.js 정석  ============",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeedy/node_web-services.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeedy/node_web-services/issues"
+  },
+  "homepage": "https://github.com/jeedy/node_web-services#readme"
+}
